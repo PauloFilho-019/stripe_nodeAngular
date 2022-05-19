@@ -1,14 +1,15 @@
 # stripe_nodeAngular
 Angular stripe application with node.js
 
-para iniciar o projeto apos copiar o repositório:
+to start the project after copying the repository:
 
 npm i
 
-coloque as suas chaves stripe e a url do seu banco de dados no arquivo.env
+put your stripe keys and your database url in the.env file
 
 nodemon app.js
 
-ng serve in front
+ng serves in front
+
 
 
